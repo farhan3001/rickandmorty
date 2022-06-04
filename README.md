@@ -1,1 +1,1 @@
-deployed web: https://rick-and-morty-20055.web.app/
+prototype: https://rick-and-morty-20055.web.app/
